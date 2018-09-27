@@ -1,0 +1,17 @@
+---
+name: cmpsc-100-fall-2018-practical5
+break: true
+indent: 4
+---
+src/main:
+    java:
+        practicalfive/MadLibs.java:
+            --single 4 --language Java
+            --multi 2 --language Java
+            --fragment "new Date(" --count 1
+            --fragment "String" --count 4
+            --fragment "int" --count 2
+            --fragment "System.out.print" --count 3
+--commits 5
+
+--command "gradle -q --console plain run" --executes
