@@ -1,5 +1,5 @@
 
-# cs100f2018-practical5-solution
+# cs100f2018-practical5-starter
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
 repository contains the starter files for Practical 5 in Computer Science 111.
